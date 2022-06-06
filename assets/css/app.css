@@ -6102,6 +6102,13 @@ line-height: 24px;
 	margin-bottom: 3px ;
 }
 
+.section-title .team-small-title {
+	font-weight: 300;
+	font-size: 25px;
+	line-height: 145%;
+	text-align: center;
+}
+
 .section-title .blog-title {
 	font-weight: 400;
 	font-size: 16px;
